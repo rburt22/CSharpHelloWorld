@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj": {}
+    "/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj": {
+    "/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj",
+        "projectUniqueName": "/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj",
         "projectName": "cSharpHelloWorld",
-        "projectPath": "/Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj",
+        "projectPath": "/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/cSharpHelloWorld.csproj",
         "packagesPath": "/Users/rburt/.nuget/packages/",
-        "outputPath": "/Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/obj/",
+        "outputPath": "/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

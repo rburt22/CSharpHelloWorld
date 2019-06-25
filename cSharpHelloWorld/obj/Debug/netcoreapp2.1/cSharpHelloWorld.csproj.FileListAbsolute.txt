@@ -12,3 +12,17 @@
 /Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.RazorTargetAssemblyInfo.cache
 /Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.dll
 /Users/rburt/Projects/cSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.pdb
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.deps.json
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.runtimeconfig.json
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.runtimeconfig.dev.json
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.dll
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.pdb
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.csprojAssemblyReference.cache
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.csproj.CoreCompileInputs.cache
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.RazorAssemblyInfo.cache
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.RazorAssemblyInfo.cs
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.AssemblyInfoInputs.cache
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.AssemblyInfo.cs
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.RazorTargetAssemblyInfo.cache
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.dll
+/Users/rburt/Documents/GitHub/CSharpHelloWorld/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.pdb
